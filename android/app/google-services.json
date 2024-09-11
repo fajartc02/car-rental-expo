@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "93132585143",
+    "project_id": "react-expo-rn",
+    "storage_bucket": "react-expo-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93132585143:android:5c6170c61e572c30c97532",
+        "android_client_info": {
+          "package_name": "com.fajartc02.carrentalexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93132585143-6qa9jqhusfbt4d5sajak70d51f8g0vr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fajartc02.carrentalexpo",
+            "certificate_hash": "798f5e26bdf83613cadc356e4703eee8377f5bad"
+          }
+        },
+        {
+          "client_id": "93132585143-8e5j19jiujlncqfgg7p11g2v64p750uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClWItfpUBkCfbN-5c38gZsIHDbRoMrA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93132585143-8e5j19jiujlncqfgg7p11g2v64p750uu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93132585143-dr77gdb52v9aql0v7k0ksgt4n5dm989u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fajartc02.carrentalexpo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

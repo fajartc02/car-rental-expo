@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GeoLocation renders correctly 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "borderRadius": 4,
+      "elevation": 0.5,
+      "marginVertical": 4,
+      "shadowColor": "rgba(0,0,0,0.2)",
+      "shadowOpacity": 1,
+      "shadowRadius": 4,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "gap": 16,
+          "justifyContent": "flex-start",
+          "padding": 16,
+        }
+      }
+    >
+      <View>
+        <Image
+          source={
+            {
+              "uri": "https://firebasestorage.googleapis.com/v0/b/km-sib-2---secondhand.appspot.com/o/orders%2F1725855113022-9d222482-af8c-44a9-ab3b-ae780f03b36b.jpeg?alt=media",
+            }
+          }
+          style={
+            {
+              "height": 40,
+              "objectFit": "contain",
+              "width": 40,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "gap": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "fontSize": 14,
+            }
+          }
+        >
+          Innova
+        </Text>
+        <View
+          style={
+            {
+              "alignItems": "baseline",
+              "flexDirection": "row",
+              "gap": 0,
+              "justifyContent": "flex-start",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "gap": 2,
+                "justifyContent": "flex-start",
+              }
+            }
+          >
+            <Text />
+            <Text
+              style={
+                {
+                  "color": "#8A8A8A",
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              10
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "gap": 2,
+                "justifyContent": "flex-start",
+              }
+            }
+          >
+            <Text />
+            <Text
+              style={
+                {
+                  "color": "#8A8A8A",
+                  "fontWeight": "bold",
+                  "marginRight": 10,
+                }
+              }
+            >
+              2
+            </Text>
+          </View>
+        </View>
+        <Text
+          style={
+            {
+              "color": "#5CB85F",
+              "fontSize": 14,
+            }
+          }
+        >
+          IDR 500,000.00
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

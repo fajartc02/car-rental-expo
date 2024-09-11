@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FooterPa renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#fff",
+      },
+      {
+        "alignItems": "flex-start",
+        "backgroundColor": "#EEEEEE",
+        "gap": 8,
+        "justifyContent": "flex-start",
+        "padding": 16,
+        "width": "100%",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "baseline",
+        "flexDirection": "row",
+        "gap": 0,
+        "justifyContent": "flex-start",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "gap": 8,
+          "textAlign": "left",
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#11181C",
+            },
+            {
+              "fontSize": 16,
+              "lineHeight": 24,
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            {
+              "fontWeight": "bold",
+            },
+          ]
+        }
+      >
+        IDR 1,000,000
+      </Text>
+      <Text />
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "baseline",
+        "flexDirection": "row",
+        "gap": 0,
+        "justifyContent": "flex-start",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "width": "95%",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#3D7B3F",
+            "borderRadius": 8,
+            "justifyContent": "center",
+            "opacity": 1,
+            "padding": 12,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#11181C",
+              },
+              {
+                "fontSize": 16,
+                "lineHeight": 24,
+              },
+              undefined,
+              undefined,
+              undefined,
+              undefined,
+              {
+                "color": "white",
+                "fontWeight": "bold",
+              },
+            ]
+          }
+        >
+          Bayar
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
